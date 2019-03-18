@@ -12,3 +12,7 @@ dist
 node_modules
 
 .size-snapshot.json
+
+# storybook
+
+storybook-static
