@@ -13,7 +13,7 @@
     "test": "./node_modules/.bin/eslint src/**/*.jsx && react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "storybook": "start-storybook",
-    "build-storybook": "build-storybook -s .preview-storybook"
+    "build-storybook": "build-storybook -s public"
   },
   "dependencies": {
     "@babel/cli": "^7.0.0",
